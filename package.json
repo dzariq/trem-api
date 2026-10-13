@@ -1,0 +1,40 @@
+{
+  "name": "@dzariq/trem-api",
+  "version": "0.1.0",
+  "description": "Trem Admin API TypeScript SDK (Fern-generated)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzariq/trem-api.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json --noEmitOnError false",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "typescript": "^5.8.0"
+  }
+}

@@ -1,0 +1,7 @@
+# Persist publish wiring across Fern regenerations
+package.json
+tsconfig.build.json
+.npmignore
+.gitignore
+.github/
+.fernignore

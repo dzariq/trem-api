@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "declaration": true,
+    "declarationMap": true,
+    "outDir": "dist",
+    "rootDir": ".",
+    "strict": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ES2020", "DOM"],
+    "types": ["node"]
+  },
+  "include": [
+    "index.ts",
+    "exports.ts",
+    "Client.ts",
+    "BaseClient.ts",
+    "environments.ts",
+    "api/**/*.ts",
+    "auth/**/*.ts",
+    "core/**/*.ts",
+    "errors/**/*.ts"
+  ],
+  "exclude": ["dist", "node_modules", "**/*.test.ts"]
+}
