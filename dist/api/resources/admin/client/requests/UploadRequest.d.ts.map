@@ -1,0 +1,1 @@
+{"version":3,"file":"UploadRequest.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/UploadRequest.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,IAAI,MAAM,8BAA8B,CAAC;AAE1D;;;;;GAKG;AACH,MAAM,WAAW,aAAa;IAC1B,YAAY,CAAC,EAAE,MAAM,GAAG,IAAI,CAAC;IAC7B,KAAK,EAAE,IAAI,CAAC,IAAI,CAAC,UAAU,EAAE,CAAC;CACjC"}

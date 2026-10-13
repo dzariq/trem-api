@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminShowFinalWeekListDataDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminShowFinalWeekListDataDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,6BAA6B;IAC1C,KAAK,EAAE,OAAO,CAAC,qBAAqB,EAAE,CAAC;IACvC,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;CACvB"}

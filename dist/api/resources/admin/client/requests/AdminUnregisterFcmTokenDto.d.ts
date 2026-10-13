@@ -1,0 +1,14 @@
+/**
+ * @example
+ *     {
+ *         user_id: "a439e524-3a8a-487a-b897-2c3a231a3fda",
+ *         token: "token"
+ *     }
+ */
+export interface AdminUnregisterFcmTokenDto {
+    /** App user UUID */
+    user_id: string;
+    /** FCM registration token to remove for this user */
+    token: string;
+}
+//# sourceMappingURL=AdminUnregisterFcmTokenDto.d.ts.map

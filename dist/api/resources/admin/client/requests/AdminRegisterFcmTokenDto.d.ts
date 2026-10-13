@@ -1,0 +1,23 @@
+/**
+ * @example
+ *     {
+ *         user_id: "a439e524-3a8a-487a-b897-2c3a231a3fda",
+ *         token: "token"
+ *     }
+ */
+export interface AdminRegisterFcmTokenDto {
+    /** App user UUID to attach the FCM device token to */
+    user_id: string;
+    /** FCM registration token from the client app or Firebase console */
+    token: string;
+    platform?: AdminRegisterFcmTokenDto.Platform;
+}
+export declare namespace AdminRegisterFcmTokenDto {
+    const Platform: {
+        readonly Android: "android";
+        readonly Ios: "ios";
+        readonly Web: "web";
+    };
+    type Platform = (typeof Platform)[keyof typeof Platform];
+}
+//# sourceMappingURL=AdminRegisterFcmTokenDto.d.ts.map

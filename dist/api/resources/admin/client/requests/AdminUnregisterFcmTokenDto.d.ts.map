@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminUnregisterFcmTokenDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminUnregisterFcmTokenDto.ts"],"names":[],"mappings":"AAEA;;;;;;GAMG;AACH,MAAM,WAAW,0BAA0B;IACvC,oBAAoB;IACpB,OAAO,EAAE,MAAM,CAAC;IAChB,qDAAqD;IACrD,KAAK,EAAE,MAAM,CAAC;CACjB"}

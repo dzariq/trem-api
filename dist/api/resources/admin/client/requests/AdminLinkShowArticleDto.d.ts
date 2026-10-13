@@ -1,0 +1,14 @@
+/**
+ * @example
+ *     {
+ *         showId: "showId",
+ *         article_id: "b7d1d1a0-1c35-4d2c-8d45-2b0bb6a4bb1a"
+ *     }
+ */
+export interface AdminLinkShowArticleDto {
+    /** Show UUID */
+    showId: string;
+    /** Article UUID */
+    article_id: string;
+}
+//# sourceMappingURL=AdminLinkShowArticleDto.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminUnsubscribeFcmTopicDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminUnsubscribeFcmTopicDto.ts"],"names":[],"mappings":"AAEA;;;;;GAKG;AACH,MAAM,WAAW,2BAA2B;IACxC,uDAAuD;IACvD,KAAK,EAAE,MAAM,CAAC;IACd,iEAAiE;IACjE,QAAQ,CAAC,EAAE,MAAM,EAAE,CAAC;IACpB,iEAAiE;IACjE,MAAM,CAAC,EAAE,MAAM,EAAE,CAAC;CACrB"}

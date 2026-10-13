@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminAdjustLoyaltyPointsDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminAdjustLoyaltyPointsDto.ts"],"names":[],"mappings":"AAEA;;;;;;GAMG;AACH,MAAM,WAAW,2BAA2B;IACxC,gBAAgB;IAChB,MAAM,EAAE,MAAM,CAAC;IACf,oDAAoD;IACpD,YAAY,EAAE,MAAM,CAAC;IACrB,IAAI,CAAC,EAAE,MAAM,CAAC;CACjB"}

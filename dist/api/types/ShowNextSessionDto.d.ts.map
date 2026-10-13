@@ -1,0 +1,1 @@
+{"version":3,"file":"ShowNextSessionDto.d.ts","sourceRoot":"","sources":["../../../api/types/ShowNextSessionDto.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,kBAAkB;IAC/B,EAAE,EAAE,MAAM,CAAC;IACX,YAAY,EAAE,MAAM,CAAC;IACrB,YAAY,EAAE,MAAM,CAAC;IACrB,iBAAiB,CAAC,EAAE,CAAC,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,GAAG,IAAI,CAAC,GAAG,SAAS,CAAC;CACpE"}

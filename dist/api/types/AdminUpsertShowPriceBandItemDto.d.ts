@@ -1,0 +1,15 @@
+export interface AdminUpsertShowPriceBandItemDto {
+    /** Existing band id (omit to create) */
+    id?: string | undefined;
+    /** Band name shown to buyers, e.g. "Below RM 100" */
+    name: string;
+    /** Displayed range minimum price */
+    min_price: number;
+    /** Displayed range maximum price */
+    max_price: number;
+    currency?: string | undefined;
+    sort_order?: number | undefined;
+    /** Venue tier (section) ids grouped into this band */
+    tier_ids: string[];
+}
+//# sourceMappingURL=AdminUpsertShowPriceBandItemDto.d.ts.map

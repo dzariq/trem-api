@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminLoginDataDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminLoginDataDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,iBAAiB;IAC9B,oCAAoC;IACpC,YAAY,EAAE,MAAM,CAAC;IACrB,2BAA2B;IAC3B,aAAa,EAAE,MAAM,CAAC;IACtB,KAAK,EAAE,OAAO,CAAC,YAAY,CAAC;CAC/B"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"UnblockSeatRequest.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/UnblockSeatRequest.ts"],"names":[],"mappings":"AAEA;;;;;;;GAOG;AACH,MAAM,WAAW,kBAAkB;IAC/B,iBAAiB;IACjB,OAAO,EAAE,MAAM,CAAC;IAChB,sBAAsB;IACtB,MAAM,EAAE,MAAM,CAAC;IACf,wBAAwB;IACxB,UAAU,EAAE,MAAM,CAAC;CACtB"}

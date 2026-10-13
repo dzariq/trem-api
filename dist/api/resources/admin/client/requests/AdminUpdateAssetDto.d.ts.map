@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminUpdateAssetDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminUpdateAssetDto.ts"],"names":[],"mappings":"AAEA;;;;;GAKG;AACH,MAAM,WAAW,mBAAmB;IAChC,OAAO,EAAE,MAAM,CAAC;IAChB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,oDAAoD;IACpD,YAAY,CAAC,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,GAAG,IAAI,CAAC;CACjD"}

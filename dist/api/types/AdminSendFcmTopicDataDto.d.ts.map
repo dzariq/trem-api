@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminSendFcmTopicDataDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminSendFcmTopicDataDto.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,wBAAwB;IACrC,WAAW,EAAE,OAAO,CAAC;IACrB,kDAAkD;IAClD,KAAK,EAAE,MAAM,CAAC;IACd,8CAA8C;IAC9C,UAAU,CAAC,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,GAAG,SAAS,CAAC;CACpD"}

@@ -1,0 +1,9 @@
+export interface AdminSendFcmDataDto {
+    /** Whether FCM is configured on the server */
+    fcm_enabled: boolean;
+    /** Number of tokens that received the message */
+    success_count: number;
+    /** Number of tokens that failed */
+    failure_count: number;
+}
+//# sourceMappingURL=AdminSendFcmDataDto.d.ts.map

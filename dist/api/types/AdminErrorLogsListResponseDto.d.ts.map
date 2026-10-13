@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminErrorLogsListResponseDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminErrorLogsListResponseDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,6BAA6B;IAC1C,OAAO,EAAE,OAAO,CAAC;IACjB,SAAS,EAAE,MAAM,CAAC;IAClB,IAAI,EAAE,OAAO,CAAC,yBAAyB,CAAC;CAC3C"}

@@ -1,0 +1,11 @@
+/**
+ * @example
+ *     {
+ *         code: "https://tremstgapi.axcova.com/api/tickets/validate?code=TRM%3Av1%3A00000042%3A22222222-2222-2222-2222-222222222222"
+ *     }
+ */
+export interface AdminTicketCheckInDto {
+    /** Scanned QR payload — full validate URL or bare token TRM:v1:{ticketNumber}:{qrCode} */
+    code: string;
+}
+//# sourceMappingURL=AdminTicketCheckInDto.d.ts.map

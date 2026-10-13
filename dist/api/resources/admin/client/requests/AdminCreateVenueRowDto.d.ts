@@ -1,0 +1,15 @@
+/**
+ * @example
+ *     {
+ *         sectionId: "sectionId",
+ *         row_label: "FF"
+ *     }
+ */
+export interface AdminCreateVenueRowDto {
+    sectionId: string;
+    row_label: string;
+    sort_order?: number;
+    distance_from_stage_m?: Record<string, unknown>;
+    sightline_rating?: Record<string, unknown>;
+}
+//# sourceMappingURL=AdminCreateVenueRowDto.d.ts.map

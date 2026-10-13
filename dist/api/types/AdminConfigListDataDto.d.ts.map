@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminConfigListDataDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminConfigListDataDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,sBAAsB;IACnC,KAAK,EAAE,OAAO,CAAC,cAAc,EAAE,CAAC;IAChC,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;CACvB"}

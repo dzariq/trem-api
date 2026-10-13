@@ -1,0 +1,19 @@
+import type * as TremApi from "../../../../index.js";
+/**
+ * @example
+ *     {
+ *         page: 1,
+ *         per_page: 30
+ *     }
+ */
+export interface ListRequest {
+    page?: number;
+    per_page?: number;
+    /** Search by show name or ids */
+    q?: string;
+    /** Filter notify flag (0/1) */
+    notify?: TremApi.ListRequestNotify;
+    /** Filter fcm_sent flag (0/1) */
+    fcm_sent?: TremApi.ListRequestFcmSent;
+}
+//# sourceMappingURL=ListRequest.d.ts.map

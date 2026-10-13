@@ -24,9 +24,12 @@
     "dist",
     "README.md"
   ],
+  "installConfig": {
+    "hoistingLimits": "workspaces"
+  },
   "sideEffects": false,
   "scripts": {
-    "build": "tsc -p tsconfig.build.json --noEmitOnError false",
+    "build": "tsc -p tsconfig.build.json --noEmitOnError false; test -f dist/index.js",
     "prepublishOnly": "npm run build"
   },
   "engines": {

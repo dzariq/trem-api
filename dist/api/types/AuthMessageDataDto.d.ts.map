@@ -1,0 +1,1 @@
+{"version":3,"file":"AuthMessageDataDto.d.ts","sourceRoot":"","sources":["../../../api/types/AuthMessageDataDto.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,kBAAkB;IAC/B,OAAO,EAAE,MAAM,CAAC;IAChB,2EAA2E;IAC3E,kBAAkB,CAAC,EAAE,MAAM,GAAG,SAAS,CAAC;CAC3C"}

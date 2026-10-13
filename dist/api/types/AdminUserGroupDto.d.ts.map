@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminUserGroupDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminUserGroupDto.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,iBAAiB;IAC9B,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,qDAAqD;IACrD,KAAK,EAAE,MAAM,CAAC;IACd,sCAAsC;IACtC,YAAY,EAAE,MAAM,CAAC;IACrB,UAAU,EAAE,MAAM,CAAC;IACnB,UAAU,EAAE,MAAM,CAAC;CACtB"}

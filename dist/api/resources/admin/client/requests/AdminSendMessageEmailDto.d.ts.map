@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminSendMessageEmailDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminSendMessageEmailDto.ts"],"names":[],"mappings":"AAEA;;;;;;GAMG;AACH,MAAM,WAAW,wBAAwB;IACrC,uEAAuE;IACvE,aAAa,CAAC,EAAE,MAAM,CAAC;IACvB,0FAA0F;IAC1F,QAAQ,CAAC,EAAE,MAAM,EAAE,CAAC;IACpB,OAAO,EAAE,MAAM,CAAC;IAChB,SAAS,EAAE,MAAM,CAAC;CACrB"}

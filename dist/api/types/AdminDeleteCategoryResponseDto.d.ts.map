@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminDeleteCategoryResponseDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminDeleteCategoryResponseDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,8BAA8B;IAC3C,OAAO,EAAE,OAAO,CAAC;IACjB,SAAS,EAAE,MAAM,CAAC;IAClB,IAAI,EAAE,OAAO,CAAC,0BAA0B,CAAC;CAC5C"}

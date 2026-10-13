@@ -1,0 +1,1 @@
+{"version":3,"file":"UploadReactionVideoRequest.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/UploadReactionVideoRequest.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,IAAI,MAAM,8BAA8B,CAAC;AAE1D;;;;;;GAMG;AACH,MAAM,WAAW,0BAA0B;IACvC,gBAAgB;IAChB,MAAM,EAAE,MAAM,CAAC;IACf,KAAK,EAAE,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC;CAC/B"}

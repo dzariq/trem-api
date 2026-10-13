@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminCreateAssetDirectoryDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminCreateAssetDirectoryDto.ts"],"names":[],"mappings":"AAEA;;;;;GAKG;AACH,MAAM,WAAW,4BAA4B;IACzC,IAAI,EAAE,MAAM,CAAC;IACb,oDAAoD;IACpD,SAAS,CAAC,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,GAAG,IAAI,CAAC;CAC9C"}

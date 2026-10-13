@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminUserGroupsListDataDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminUserGroupsListDataDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,0BAA0B;IACvC,KAAK,EAAE,OAAO,CAAC,iBAAiB,EAAE,CAAC;IACnC,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;CACvB"}

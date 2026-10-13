@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminDeleteUserGroupResponseDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminDeleteUserGroupResponseDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,+BAA+B;IAC5C,OAAO,EAAE,OAAO,CAAC;IACjB,SAAS,EAAE,MAAM,CAAC;IAClB,IAAI,EAAE,OAAO,CAAC,2BAA2B,CAAC;CAC7C"}

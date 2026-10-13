@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminSubscribeFcmTopicDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminSubscribeFcmTopicDto.ts"],"names":[],"mappings":"AAEA;;;;;GAKG;AACH,MAAM,WAAW,yBAAyB;IACtC,uDAAuD;IACvD,KAAK,EAAE,MAAM,CAAC;IACd,iEAAiE;IACjE,QAAQ,CAAC,EAAE,MAAM,EAAE,CAAC;IACpB,iEAAiE;IACjE,MAAM,CAAC,EAAE,MAAM,EAAE,CAAC;CACrB"}

@@ -1,0 +1,11 @@
+export interface AdminVenueDto {
+    id: string;
+    location_name: string;
+    lat?: (Record<string, unknown> | null) | undefined;
+    /** Longitude */
+    lng?: (Record<string, unknown> | null) | undefined;
+    city_id: string;
+    city_name: string;
+    created_at: string;
+}
+//# sourceMappingURL=AdminVenueDto.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminSendFcmTopicDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminSendFcmTopicDto.ts"],"names":[],"mappings":"AAEA;;;;;;;GAOG;AACH,MAAM,WAAW,oBAAoB;IACjC,8GAA8G;IAC9G,KAAK,EAAE,MAAM,CAAC;IACd,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,MAAM,CAAC;IACb,yDAAyD;IACzD,IAAI,CAAC,EAAE,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,CAAC;CAClC"}

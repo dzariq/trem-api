@@ -1,0 +1,1 @@
+{"version":3,"file":"UploadVideoRequest.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/UploadVideoRequest.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,IAAI,MAAM,8BAA8B,CAAC;AAE1D;;;;;;GAMG;AACH,MAAM,WAAW,kBAAkB;IAC/B,kBAAkB;IAClB,QAAQ,EAAE,MAAM,CAAC;IACjB,KAAK,EAAE,IAAI,CAAC,IAAI,CAAC,UAAU,CAAC;CAC/B"}

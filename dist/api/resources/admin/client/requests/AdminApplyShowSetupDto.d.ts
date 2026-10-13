@@ -1,0 +1,14 @@
+/**
+ * @example
+ *     {
+ *         showId: "showId",
+ *         target_show_ids: ["11111111-1111-1111-1111-111111111111"]
+ *     }
+ */
+export interface AdminApplyShowSetupDto {
+    /** Source show UUID */
+    showId: string;
+    /** Target show UUIDs to receive sessions + seating/pricing from the source show */
+    target_show_ids: string[];
+}
+//# sourceMappingURL=AdminApplyShowSetupDto.d.ts.map

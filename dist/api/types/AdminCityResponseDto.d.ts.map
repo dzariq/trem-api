@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminCityResponseDto.d.ts","sourceRoot":"","sources":["../../../api/types/AdminCityResponseDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,aAAa,CAAC;AAE5C,MAAM,WAAW,oBAAoB;IACjC,OAAO,EAAE,OAAO,CAAC;IACjB,SAAS,EAAE,MAAM,CAAC;IAClB,IAAI,EAAE,OAAO,CAAC,YAAY,CAAC;CAC9B"}

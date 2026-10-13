@@ -1,0 +1,1 @@
+{"version":3,"file":"AdminBulkUpdateShowsDto.d.ts","sourceRoot":"","sources":["../../../../../../api/resources/admin/client/requests/AdminBulkUpdateShowsDto.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,KAAK,OAAO,MAAM,sBAAsB,CAAC;AAErD;;;;;;;GAOG;AACH,MAAM,WAAW,uBAAuB;IACpC,KAAK,EAAE,OAAO,CAAC,0BAA0B,EAAE,CAAC;CAC/C"}
